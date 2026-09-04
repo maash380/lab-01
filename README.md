@@ -2,7 +2,7 @@
 
 ## Student Details
 - **Full Name:** `Mahamoud Maash`
-- **CCID:** `1836285`
+- **CCID:** `Maash`
 
 ## References and Resources
 List any resources used here, or simply put `N/A` if not applicable.
